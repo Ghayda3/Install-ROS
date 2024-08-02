@@ -6,3 +6,4 @@
 
 2-Choose the appropriate version for your device
 
+<img src="Uploading image.png…" width="200" height="200">
