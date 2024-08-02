@@ -7,8 +7,6 @@
 
 
 #
-
-
 ## Step 2: Download Ubuntu 20.04
 
  Download and install Ubuntu 20.04 from this link: https://releases.ubuntu.com/focal/
