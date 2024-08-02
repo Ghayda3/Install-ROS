@@ -31,6 +31,7 @@
   Enter your name and then your password.
 
 
+
   Ubuntu is ready
 
 #
