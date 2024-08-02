@@ -1,11 +1,11 @@
 # Install-ROS
 
 ## Step 1: Download and Install VirtualBox
-<img src="(https://github.com/user-attachments/assets/c3b6e285-44b8-4e2a-b2e7-b54eaae4e9f4)" width="200">
-
  1- Open the link to download VirtualBox: https://www.virtualbox.org
 
  2- Choose the appropriate version for your device
+
+
 #
 
 
